@@ -1,3 +1,4 @@
+#Challenge 001 - Print into the world
 print("Klavier Navarro")
 print("02/03/2024 (dd/mm/yyyy)")
 print("""I am signing up for Replit's 100 days of Python challenge!
